@@ -10,4 +10,6 @@ public interface UserDao {
 
     List<User> queryAll();
 
+    List<User> queryByPage();
+
 }
