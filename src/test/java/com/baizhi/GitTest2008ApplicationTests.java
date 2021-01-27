@@ -10,6 +10,7 @@ class GitTest2008ApplicationTests {
     void contextLoads() {
         System.out.println("====");
         System.out.println("====");
+        int a = 20;
     }
 
 }
