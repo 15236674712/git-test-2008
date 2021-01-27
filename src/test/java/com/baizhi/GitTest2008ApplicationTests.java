@@ -11,6 +11,7 @@ class GitTest2008ApplicationTests {
         System.out.println("====");
         System.out.println("====");
         int a = 20;
+        int b = 10;
     }
 
 }
