@@ -8,6 +8,8 @@ class GitTest2008ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("====");
+        System.out.println("====");
     }
 
 }
