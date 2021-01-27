@@ -31,4 +31,10 @@ class GitTests {
         String str3 = "idea two add";
     }
 
+    @Test
+    public void testA() {
+        int a = 10;
+        int b = 20;
+    }
+
 }
