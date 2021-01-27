@@ -28,6 +28,7 @@ class GitTests {
         int b = 10;
         String str = "github add";
         String str2 = "idea add";
+        String str3 = "idea two add";
     }
 
 }
