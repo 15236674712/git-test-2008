@@ -26,6 +26,7 @@ class GitTests {
         System.out.println("====");
         int a = 20;
         int b = 10;
+        String str="github add";
     }
 
 }
