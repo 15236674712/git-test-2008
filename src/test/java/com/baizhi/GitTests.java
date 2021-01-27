@@ -32,10 +32,11 @@ class GitTests {
     }
 
     @Test
-    public void testB(){
+    public void testAB(){
+        int aa = 10;
+        int bb = 20;
         int a=30;
         int b=50;
         System.out.println(a+b);
     }
-
 }
